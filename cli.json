@@ -1,0 +1,13 @@
+{
+    "requirements": {
+      "go": "1.21.3"
+    },
+    "commands": [
+      {
+        "name": "hostsfile",
+        "aliases": ["hf", "hosts", "host"],
+        "version": "0.0.0",
+        "description": "hostsfile manager for Akamai testing"
+      }
+    ]
+  }
